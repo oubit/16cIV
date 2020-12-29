@@ -1,5 +1,33 @@
-En esta wiki se describe con exactitud toda la historia, datos y reglas necesarias para comprender el mundo en el que se desarrollarán nuestras partidas.
+# Instrucciones
 
-Este mundo está basado en montones de cosas conocidas, y en ninguna en particular. Recoge ideas de Mass Efect, videojuegos medievales y sagas espaciales. Y algo de física.
+## Consideraciones RTD + Sphinx
+Todo, empezando por el índice, debe estar dentro de la carpeta `docs`.
+Los `title` y estructura de carpetas, debe estar definida en un fichero aparte.
 
-Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas, y a lo que es posible de facto, pero obviamente, nos hemos permitido licencias para facilitar la jugabilidad y simplificar conceptos.
+## Varias cuentas de GitHub
+Artículos:
+- https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
+- https://docs.github.com/en/free-pro-team@latest/developers/overview/managing-deploy-keys#deploy-keys
+
+El punto clave final es el comando:
+```
+git remote set-url origin git@github.com:oubit/16cIV.git
+```
+
+Esto hará que realmente use el fichero RSA generado.
+Preguntará si es un destino de confianza, generando en la carpeta `~/.ssh` el fichero:
+- known_hosts
+
+## Themes
+
+https://sphinx-themes.org
+
+## Editar restructuredText en VSCode
+
+Hay varios plugins, pero muchos prerequisitos.
+
+https://docs.restructuredtext.net/articles/prerequisites.html#install-python-for-most-features
+
+## Para correrlo en local
+
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
