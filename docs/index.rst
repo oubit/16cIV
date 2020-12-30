@@ -1,3 +1,22 @@
+==========
+16cIV
+==========
+
+.. toctree::
+    :caption: Table of Contents
+    :name: mastertoc
+    :maxdepth: 2
+    :numbered:  
+
+    intro
+    Setting <setting>
+    datatypes
+    numeric
+    recipe/*
+
+Introducción
+============
+
 En esta wiki se describe con exactitud toda la historia, datos y reglas necesarias para comprender el mundo en el que se desarrollarán nuestras partidas.
 
 Este mundo está basado en montones de cosas conocidas, y en ninguna en particular. Recoge ideas de Mass Efect, videojuegos medievales y sagas espaciales. Y algo de física.
