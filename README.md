@@ -25,6 +25,9 @@ Preguntará si es un destino de confianza, generando en la carpeta `~/.ssh` el f
 
 https://sphinx-themes.org
 
+Parece que solo pueden usarse los built-in
+https://stackoverflow.com/questions/45878953/use-custom-theme-on-readthedocs
+
 ## Editar restructuredText en VSCode
 
 Hay varios plugins, pero muchos prerequisitos.
@@ -34,3 +37,8 @@ https://docs.restructuredtext.net/articles/prerequisites.html#install-python-for
 ## Para correrlo en local
 
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+
+## A instalar
+
+https://sphinx-hoverxref.readthedocs.io/en/latest/
+copybutton
