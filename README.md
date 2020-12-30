@@ -4,6 +4,9 @@
 Todo, empezando por el índice, debe estar dentro de la carpeta `docs`.
 Los `title` y estructura de carpetas, debe estar definida en un fichero aparte.
 
+## Dependencias
+https://docs.readthedocs.io/en/stable/guides/specifying-dependencies.html
+
 ## Varias cuentas de GitHub
 Artículos:
 - https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e

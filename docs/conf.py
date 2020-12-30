@@ -7,6 +7,9 @@ project = "16cIV"
 copyright = "2020, Óscar Unzué"
 author = "Óscar Unzué"
 
+# master_doc = 'index'
+# source_suffix = '.rst'
+
 # -- Extensions --------------------------------------------------------------
 extensions = [
     "sphinx.ext.intersphinx",
