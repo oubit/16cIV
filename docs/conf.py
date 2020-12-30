@@ -52,7 +52,7 @@ html_sidebars = {
 
 html_theme = "sphinx_materialdesign_theme"
 
-html_theme = "sphinx_veldus_theme"
+# html_theme = "sphinx_veldus_theme"
 
 # html_theme = "classic"
 # html_theme_options = {
