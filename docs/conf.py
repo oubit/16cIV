@@ -36,9 +36,9 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import stanford_theme
-    html_theme = "stanford_theme"
-    html_theme_path = [stanford_theme.get_html_theme_path()]
 
+html_theme = "stanford_theme"
+html_theme_path = [stanford_theme.get_html_theme_path()]
 html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
