@@ -27,7 +27,7 @@ html_sidebars = {
 }
 
 # Theme
-import stanford_theme
+#import stanford_theme
 html_theme = "stanford_theme"
 html_theme_path = [stanford_theme.get_html_theme_path()]
 
