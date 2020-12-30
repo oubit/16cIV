@@ -1,2 +1,3 @@
 sphinx-tabs
+sphinx-hoverxref
 stanford_theme

@@ -17,7 +17,7 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.viewcode",
     'sphinx_tabs.tabs',
-    "sphinx-hoverxref"
+    'hoverxref.extension'
 ]
 
 # -- Options for HTML output -------------------------------------------------
