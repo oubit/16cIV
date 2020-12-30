@@ -30,9 +30,9 @@ html_sidebars = {
 }
 
 # Theme
-#import stanford_theme
-# html_theme = "stanford_theme"
-# html_theme_path = [stanford_theme.get_html_theme_path()]
+import stanford_theme
+html_theme = "stanford_theme"
+html_theme_path = [stanford_theme.get_html_theme_path()]
 
 # Ansible Theme
 # extensions.append("sphinx_ansible_theme.ext.pygments_lexer")
@@ -50,7 +50,7 @@ html_sidebars = {
 # }
 # pygments_style = 'sphinx'
 
-html_theme = "sphinx_materialdesign_theme"
+# html_theme = "sphinx_materialdesign_theme"
 
 # html_theme = "sphinx_veldus_theme"
 
