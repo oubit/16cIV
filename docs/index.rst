@@ -1,7 +1,3 @@
-==========
-16cIV
-==========
-
 .. toctree::
     :caption: Table of Contents
     :name: mastertoc
@@ -11,7 +7,7 @@
     intro
     Setting <setting>
     datatypes
-    numeric
+    Borucki <Borucki>
     recipe/*
 
 Introducción
@@ -36,3 +32,5 @@ Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas,
    .. tab:: Oranges
 
       Oranges are orange.
+
+      Vamos a probar la :hoverxref:`referencia <Borucki:Borucki>`
