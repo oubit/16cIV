@@ -1,11 +1,20 @@
 .. toctree::
-   :caption: Table of Contentsy
+   :caption: SETTINGS
    :name: mastertoc
    :maxdepth: 2
-   :numbered:  
+   :titlesonly:
+   :numbered:
 
    Datos
    Borucki Man <setting/Borucki>
+
+.. toctree::
+   :caption: ROLEPLAYING GAME
+   :name: mastertoc
+   :maxdepth: 2
+   :titlesonly:
+
+   rolegame/*
 
 Introducción
 ============
