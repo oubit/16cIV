@@ -25,6 +25,8 @@ Este mundo está basado en montones de cosas conocidas, y en ninguna en particul
 
 Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas, y a lo que es posible de facto, pero obviamente, nos hemos permitido licencias para facilitar la jugabilidad y simplificar conceptos.
 
+Vamos a probar la :hoverxref:`referencia <Datos>`
+
 .. tabs::
 
    .. tab:: Apples
@@ -39,4 +41,4 @@ Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas,
 
       Oranges are orange.
 
-      Vamos a probar la :hoverxref:`referencia <Datos:Datos>`
+      Vamos a probar la :hoverxref:`referencia <Datos>`
