@@ -39,4 +39,4 @@ Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas,
 
       Oranges are orange.
 
-      Vamos a probar la :hoverxref:`referencia <setting/Borucki:Borucki>`
+      Vamos a probar la :hoverxref:`referencia <Datos:Datos>`
