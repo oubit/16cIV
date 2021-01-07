@@ -1,3 +1,6 @@
+Historia
+==========
+
 # Kepler 16c
 - 41 días de órbita (un mes).
 - Orbita alrededor de dos estrellas de baja densidad (20% y 68%).

@@ -1,6 +1,6 @@
-
-Introducción
-============
+==============
+Borucki People
+==============
 
 Esto molaaa
 
