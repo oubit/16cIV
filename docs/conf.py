@@ -20,6 +20,30 @@ extensions = [
     'hoverxref.extension'
 ]
 
+# -- hoverxref configuration
+
+hoverxref_api_host = 'https://readthedocs.org'
+# hoverxref_api_host = 'https://readthedocs.org'
+
+hoverxref_tooltip_maxwidth = 650
+hoverxref_auto_ref = True
+hoverxref_roles = [
+    'confval',
+]
+
+hoverxref_role_types = {
+    'hoverxref': 'tooltip',
+    'ref': 'modal',
+    'confval': 'tooltip',
+    'mod': 'modal',
+    'class': 'modal',
+}
+hoverxref_domains = [
+    'py',
+]
+hoverxref_sphinxtabs = True
+hoverxref_mathjax = True
+
 # -- Options for HTML output -------------------------------------------------
 
 html_title = project
