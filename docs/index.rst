@@ -4,6 +4,7 @@
    :maxdepth: 2
    :titlesonly:
    :numbered:
+   :hidden:
 
    Datos
    Borucki Man <setting/Borucki>
@@ -13,6 +14,7 @@
    :name: mastertoc2
    :maxdepth: 2
    :titlesonly:
+   :hidden:
 
    rolegame/basis
 

@@ -22,7 +22,7 @@ extensions = [
 
 # -- hoverxref configuration
 
-hoverxref_api_host = 'https://readthedocs.org'
+#hoverxref_api_host = 'https://readthedocs.org'
 # hoverxref_api_host = 'http://localhost:8000'
 
 hoverxref_tooltip_maxwidth = 650
