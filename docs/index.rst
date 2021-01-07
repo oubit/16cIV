@@ -1,7 +1,7 @@
 .. toctree::
    :caption: Table of Contentsy
    :name: mastertoc
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:  
 
    Principal <index>
