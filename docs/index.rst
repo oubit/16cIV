@@ -1,10 +1,9 @@
 .. toctree::
    :caption: Table of Contentsy
    :name: mastertoc
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:  
 
-   Principal <index>
    Datos
    Borucki Man <setting/Borucki>
 
