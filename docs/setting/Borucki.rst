@@ -1,5 +1,5 @@
 ==============
-Borucki People
+Borucki
 ==============
 
 Esto molaaa

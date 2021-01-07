@@ -7,7 +7,6 @@
    Principal <index>
    Datos
    Borucki Man <setting/Borucki>
-   Setting <setting/*>
 
 Introducción
 ============
@@ -32,4 +31,4 @@ Hemos intentado ser todo lo fieles que nos ha sido posible a las leyes físicas,
 
       Oranges are orange.
 
-      Vamos a probar la :hoverxref:`referencia <Borucki:Borucki>`
+      Vamos a probar la :hoverxref:`referencia <setting/Borucki:Borucki>`
