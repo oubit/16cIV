@@ -16,7 +16,7 @@
    :titlesonly:
    :hidden:
 
-   rolegame/basis
+   rolegame/*
 
 Introducción
 ============
