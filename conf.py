@@ -7,7 +7,7 @@ project = "16cIV"
 copyright = "2020, Óscar Unzué"
 author = "Óscar Unzué"
 
-# master_doc = 'index'
+master_doc = 'docs/index'
 # source_suffix = '.rst'
 
 # -- Extensions --------------------------------------------------------------
