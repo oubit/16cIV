@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oubit.github.io/16cIV/sitemap.xml.gz
