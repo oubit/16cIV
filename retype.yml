@@ -1,0 +1,16 @@
+input: .
+output: website
+url: oubit.github.io/16cIV
+branding:
+  title: 16cIV
+  label: v0.1
+edit: 
+  repo: https://github.com/oubit/16cIV
+  base: /
+links:
+- text: Setting
+  link: https://oubit.github.io/16cIV/Setting
+- text: Rolegame
+  link: https://oubit.github.io/16cIV/Rolegame
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
