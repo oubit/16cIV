@@ -1,6 +1,6 @@
 # Genética
 
-Como se indicaba en [razas](/Setting/The facts/Razas.md), los habitantes de este satélite están compuestos por genes de distintas especias de la Tierra, con algunos añadidos y complejidades.
+Como se indicaba en [razas](/setting/the-facts/Razas.md), los habitantes de este satélite están compuestos por genes de distintas especias de la Tierra, con algunos añadidos y complejidades.
 
 Para reflejar esto, cada personaje debe elegir 3 genes principales y 1 posible gen especial.
 Este gen especial debe elegirse como don extra. 
