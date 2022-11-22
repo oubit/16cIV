@@ -1,3 +1,6 @@
+---
+order: 1
+---
 # Implicaciones
 
 Todas estas características del sistema solar y Kepler 16cIV tienen ciertas implicaciones en aspectos físicos que damos por supuestos en nuestro planeta.

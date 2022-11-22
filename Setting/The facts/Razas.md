@@ -1,3 +1,6 @@
+---
+order: 50
+---
 # Razas
 
 La reproducción sucede por esporas vía polinización cruzada. Esto significa que se pueden mezclar genéticas de distintos tipos de animales, plantas y cualquier material.
